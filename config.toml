@@ -1,3 +1,22 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+BaseUrl= "http://osdlabs.org/"
+LanguageCode= "en-US"
+Title= "Open Source Development Blog"
+paginate = 5
+theme="casper"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "Ideate. Innovate. Inform."
+  cover = "images/cover.jpg"
+  author = "OSDLabs"
+  authorlocation = "Goa, India"
+  authorwebsite = "http://osdlabs.org/"
+  bio= "OSD Labs helps build software for BITS, and promotes contributions to open source projects from BITS Goa."
+  logo = "images/logo.png"
+  githubName = "osdlabs"
+  facebookName = "osdlabs"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "your_twitter"
