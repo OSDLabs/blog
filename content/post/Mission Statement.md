@@ -4,29 +4,30 @@ share = true
 draft = false
 author = ""
 image = ""
-tags = ["OSS","First-blog"]
+tags = ["OSS","First blog"]
 title = "Mission Statement"
 date = "2017-03-05T12:26:00+05:30"
 slug = "mission-statement"
 +++
 
-We believe in sharing code and building better software. **Period**.
-This can only be done when everyone comes together with the best of intentions to bring out something significantly useful.
-We believe there should be a community where students tinker, hack and design together.
+Hey guys! We're all really excited about our first blog post. 
+In this one, we'd like to elaborate on what OSDLabs stands to do and how *you* can be a part of it. For those of you who don't know, Open Source Development Labs is an initiative to bring Open Source innovation to campus.
 
-Already diverse in culture, the sundry thoughts, ideas and methodologies flying around in such a community, clearly set up a great environment for innovation.
+We have always believed in sharing code and building better software. **Period**. This is what 'Open Source' fundamentally means. To freely collaborate and code.
 
-We have always believed that the faculty and students can together bring about disruptive change, in and outside college with their synergistic team efforts. It should become this ‘seamless’ process, a flexible system where people easily take up interesting projects and hack.
+However, this can only be done when everyone comes together with the best of intentions to bring out something significant.
 
 *Shouldn’t campus software be written by students?*
 
-*Shouldn’t we be making cool software to make our lives easier?*
+*Shouldn’t we be pursuing cool projects to make our lives easier?*
 
-Wouldn’t it be awesome to have robots flying about? IoT sensors setup to track and detect student activities and generate useful statistics.
+If you've always felt you'd like to be a part of something bigger in the grand scale of things, this is the right place for you. We are setting out to nurture a community where students **tinker**, **hack** and **design** together.
+The diverse thoughts, ideas and methodologies flying around, inherently set up a great environment for innovation.
+Don't be alarmed by your capabilities. *Anyone* with a skillset can contribute to OSDLabs. We will be hosting more educational sessions over the semester as you get to explore domains and find your interests. 
 
-*Shouldn’t an engineering college, along with guiding its students, also leverage  their potential for greater causes?*
+Campus infrastructure developments require the faculty and students to bring about disruptive change **together**. We are in plans in setting up this ‘seamless’ process, a flexible system where people easily take up interesting projects and hack away. You will get the opportunity to work under experienced mentors and gain exposure while committing to fruitful work.
 
-Whatever BITS might be, **OSDLabs** is a place like no other.
-That is exactly what we expect to make of our community. 
-Imagine a group of elitists; giving rise to Design studios, Digital Consultancy Services and an infinite GSoC streak!
-It is important to note that I expect OSDLabs to be a place of constant learning. There is always some skillset to expand here.
+Stay tuned for more developments as we will be releasing some pretty exciting stuff in the coming weeks! 
+
+If you have any queries or would simply like to talk to us about any idea in mind, please feel free to message us on our Slack channel:
+[Slack link here]
