@@ -3,10 +3,10 @@ menu = "main"
 share = true
 draft = false
 author = ""
-image = ""
-tags = ["OSS","First blog"]
+image = "images/Mission Statement/rocket.jpg"
+tags = ["BlastOff","Firstblogpost"]
 title = "Mission Statement"
-date = "2017-03-05T12:26:00+05:30"
+date = "2017-03-09T12:26:00+05:30"
 slug = "mission-statement"
 +++
 
@@ -25,9 +25,8 @@ If you've always felt you'd like to be a part of something bigger in the grand s
 The diverse thoughts, ideas and methodologies flying around, inherently set up a great environment for innovation.
 Don't be alarmed by your capabilities. *Anyone* with a skillset can contribute to OSDLabs. We will be hosting more educational sessions over the semester as you get to explore domains and find your interests. 
 
-Campus infrastructure developments require the faculty and students to bring about disruptive change **together**. We are in plans in setting up this ‘seamless’ process, a flexible system where people easily take up interesting projects and hack away. You will get the opportunity to work under experienced mentors and gain exposure while committing to fruitful work.
+Campus infrastructure developments require the faculty and students to bring about disruptive change **together**. We are in plans to set up this ‘seamless’ process, a flexible system where people easily take up interesting projects and hack away. You will get the opportunity to work under experienced mentors and gain exposure while committing to fruitful work.
 
 Stay tuned for more developments as we will be releasing some pretty exciting stuff in the coming weeks! 
 
-If you have any queries or would simply like to talk to us about any idea in mind, please feel free to message us on our Slack channel:
-[Slack link here]
+If you have any queries in mind or would simply like to discuss an idea, feel free to message us on our Slack [channel] (http://bitsgoacodes.slack.com/signup).

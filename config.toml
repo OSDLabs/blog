@@ -13,7 +13,7 @@ canonifyurls = true
   authorlocation = "Goa, India"
   authorwebsite = "http://osdlabs.org/"
   bio= "OSD Labs helps build software for BITS, and promotes contributions to open source projects from BITS Goa."
-  logo = "images/logo.png"
+  logo = "images/logo2.svg"
   githubName = "osdlabs"
   facebookName = "osdlabs"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
