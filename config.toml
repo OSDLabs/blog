@@ -1,4 +1,4 @@
-BaseUrl= "http://osdlabs.org/"
+BaseUrl= "http://blog.osdlabs.org/"
 LanguageCode= "en-US"
 Title= "Open Source Development Blog"
 paginate = 5
