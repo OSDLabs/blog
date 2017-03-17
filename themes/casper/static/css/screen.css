@@ -440,10 +440,10 @@ table.plain tbody > tr:nth-child(odd) > th {
    background: transparent;
 }
 
-iframe, .fluid-width-video-wrapper {
-    display: block;
-    margin: 1.75em 0;
-}
+/*iframe, .fluid-width-video-wrapper {*/
+/*    display: block;*/
+/*    margin: 1.75em 0;*/
+/*}*/
 
 /* When a video is inside the fitvids wrapper, drop the
 margin on the iframe, cause it breaks stuff. */
@@ -1180,6 +1180,7 @@ body:not(.post-template) .post-title {
     text-decoration: underline;
 }
 
+
 /* Drop the share links in the space to the right.
    Doing it like this means it's easier for the author bio
    to be flexible at smaller screen sizes while the share
@@ -1194,7 +1195,7 @@ body:not(.post-template) .post-title {
 .post-footer .share a {
     font-size: 1.8rem;
     display: inline-block;
-    margin: 1rem 1.6rem 1.6rem 0;
+    margin: 1rem 1.3rem 1.3rem 0;
     color: #BBC7CC;
     text-decoration: none;
 }
@@ -1203,6 +1204,26 @@ body:not(.post-template) .post-title {
     color: #50585D;
 }
 
+
+.post-footer .share .social_likes{
+    margin: 1rem 0;
+}
+
+.post-footer .share .social_likes .fb-like{
+    display: inline-block !important;
+    right: 0;
+    padding: 0.2rem 0.3rem;
+    text-align: center;
+}
+
+.post-footer .share .social_likes .fb-like span{
+    display: block !important;
+}
+
+.post-footer .share .social_likes .hn-share-iframe{
+    display: inline-block !important;
+    padding: 0.1rem 0.3rem;
+}
 
 /* ==========================================================================
    6. Author profile
