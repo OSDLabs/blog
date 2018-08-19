@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>osdlabs.github.io/blog/posts/a-revival/</loc>
+    <loc>https://osdlabs.github.io/blog/posts/a-revival/</loc>
     <lastmod>2018-08-19T22:07:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>osdlabs.github.io/blog/posts/mission-statement/</loc>
+    <loc>https://osdlabs.github.io/blog/posts/mission-statement/</loc>
     <lastmod>2017-08-09T12:26:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>osdlabs.github.io/blog/tags/blastoff/</loc>
-    <lastmod>2017-08-09T12:26:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>osdlabs.github.io/blog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>osdlabs.github.io/blog/tags/firstblogpost/</loc>
+    <loc>https://osdlabs.github.io/blog/tags/blastoff/</loc>
     <lastmod>2017-08-09T12:26:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>osdlabs.github.io/blog/</loc>
+    <loc>https://osdlabs.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osdlabs.github.io/blog/tags/firstblogpost/</loc>
+    <lastmod>2017-08-09T12:26:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://osdlabs.github.io/blog/</loc>
     <lastmod>2018-08-19T22:07:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>osdlabs.github.io/blog/posts/</loc>
+    <loc>https://osdlabs.github.io/blog/posts/</loc>
     <lastmod>2018-08-19T22:07:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>osdlabs.github.io/blog/tags/</loc>
+    <loc>https://osdlabs.github.io/blog/tags/</loc>
     <lastmod>2017-08-09T12:26:00+05:30</lastmod>
     <priority>0</priority>
   </url>

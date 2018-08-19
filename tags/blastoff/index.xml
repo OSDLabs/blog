@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blastoff on OSD Labs Blog</title>
-    <link>osdlabs.github.io/blog/tags/blastoff/</link>
+    <link>https://osdlabs.github.io/blog/tags/blastoff/</link>
     <description>Recent content in Blastoff on OSD Labs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Aug 2017 12:26:00 +0530</lastBuildDate>
     
-	<atom:link href="osdlabs.github.io/blog/tags/blastoff/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://osdlabs.github.io/blog/tags/blastoff/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mission Statement</title>
-      <link>osdlabs.github.io/blog/posts/mission-statement/</link>
+      <link>https://osdlabs.github.io/blog/posts/mission-statement/</link>
       <pubDate>Wed, 09 Aug 2017 12:26:00 +0530</pubDate>
       
-      <guid>osdlabs.github.io/blog/posts/mission-statement/</guid>
+      <guid>https://osdlabs.github.io/blog/posts/mission-statement/</guid>
       <description>Hey guys! We&amp;rsquo;re all really excited about our first blog post. In this one, we&amp;rsquo;d like to elaborate on what OSDLabs stands to do and how you can be a part of it. For those of you who don&amp;rsquo;t know, Open Source Development Labs is an initiative to bring Open Source innovation to campus.
 We have always believed in sharing code and building better software. Period. This is what &amp;lsquo;Open Source&amp;rsquo; fundamentally means.</description>
     </item>

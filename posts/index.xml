@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on OSD Labs Blog</title>
-    <link>osdlabs.github.io/blog/posts/</link>
+    <link>https://osdlabs.github.io/blog/posts/</link>
     <description>Recent content in Posts on OSD Labs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Aug 2018 22:07:47 +0800</lastBuildDate>
     
-	<atom:link href="osdlabs.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://osdlabs.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Revival</title>
-      <link>osdlabs.github.io/blog/posts/a-revival/</link>
+      <link>https://osdlabs.github.io/blog/posts/a-revival/</link>
       <pubDate>Sun, 19 Aug 2018 22:07:47 +0800</pubDate>
       
-      <guid>osdlabs.github.io/blog/posts/a-revival/</guid>
+      <guid>https://osdlabs.github.io/blog/posts/a-revival/</guid>
       <description>Welcome to BITS Goa, batch of 2018! This address is meant to inform you about the OSD Lab, and tell you about the exciting opportunities that await you on campus. Here is a message from one of our founders about some of our ideas and vision for the future - and how you can be a part of it.
 The Open Source Development Lab The OSD Lab was formally &amp;ldquo;incorporated&amp;rdquo; sometime in 2016.</description>
     </item>
     
     <item>
       <title>Mission Statement</title>
-      <link>osdlabs.github.io/blog/posts/mission-statement/</link>
+      <link>https://osdlabs.github.io/blog/posts/mission-statement/</link>
       <pubDate>Wed, 09 Aug 2017 12:26:00 +0530</pubDate>
       
-      <guid>osdlabs.github.io/blog/posts/mission-statement/</guid>
+      <guid>https://osdlabs.github.io/blog/posts/mission-statement/</guid>
       <description>Hey guys! We&amp;rsquo;re all really excited about our first blog post. In this one, we&amp;rsquo;d like to elaborate on what OSDLabs stands to do and how you can be a part of it. For those of you who don&amp;rsquo;t know, Open Source Development Labs is an initiative to bring Open Source innovation to campus.
 We have always believed in sharing code and building better software. Period. This is what &amp;lsquo;Open Source&amp;rsquo; fundamentally means.</description>
     </item>
