@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSD Labs Blog</title>
+    <title>OSD Labs</title>
     <link>https://osdlabs.github.io/blog/</link>
-    <description>Recent content on OSD Labs Blog</description>
+    <description>Recent content on OSD Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Aug 2018 22:07:47 +0800</lastBuildDate>
