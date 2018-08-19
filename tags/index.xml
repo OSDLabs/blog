@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OSD Labs Blog</title>
+    <link>osdlabs.github.io/blog/tags/</link>
+    <description>Recent content in Tags on OSD Labs Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2017 12:26:00 +0530</lastBuildDate>
+    
+	<atom:link href="osdlabs.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blastoff</title>
+      <link>osdlabs.github.io/blog/tags/blastoff/</link>
+      <pubDate>Wed, 09 Aug 2017 12:26:00 +0530</pubDate>
+      
+      <guid>osdlabs.github.io/blog/tags/blastoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firstblogpost</title>
+      <link>osdlabs.github.io/blog/tags/firstblogpost/</link>
+      <pubDate>Wed, 09 Aug 2017 12:26:00 +0530</pubDate>
+      
+      <guid>osdlabs.github.io/blog/tags/firstblogpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

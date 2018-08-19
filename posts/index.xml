@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSD Labs Blog</title>
-    <link>osdlabs.github.io/blog/</link>
-    <description>Recent content on OSD Labs Blog</description>
+    <title>Posts on OSD Labs Blog</title>
+    <link>osdlabs.github.io/blog/posts/</link>
+    <description>Recent content in Posts on OSD Labs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Aug 2018 22:07:47 +0800</lastBuildDate>
     
-	<atom:link href="osdlabs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="osdlabs.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
